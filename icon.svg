@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024"><rect width="1024" height="1024" fill="#F7F2E8"/><g transform="translate(512 512) scale(0.92) translate(-512 -541)">
+  <circle cx="512" cy="560" r="205" fill="#B23A3A"/>
+  <g stroke="#1F2A44" stroke-width="24" stroke-linecap="round"><line x1="291.2" y1="432.5" x2="243.5" y2="405.0"/><line x1="384.5" y1="339.2" x2="357.0" y2="291.5"/><line x1="512.0" y1="305.0" x2="512.0" y2="250.0"/><line x1="639.5" y1="339.2" x2="667.0" y2="291.5"/><line x1="732.8" y1="432.5" x2="780.5" y2="405.0"/></g>
+  <path d="M182 604 C 316 538 432 548 512 624 C 592 548 708 538 842 604 L 842 812 C 708 746 592 756 512 832 C 432 756 316 746 182 812 Z"
+        fill="#F7F2E8" stroke="#1F2A44" stroke-width="26" stroke-linejoin="round"/>
+  <path d="M512 624 V 832" stroke="#1F2A44" stroke-width="26" stroke-linecap="round"/>
+  <g stroke="#1F2A44" stroke-width="13" stroke-linecap="round" fill="none" opacity="0.5">
+    <path d="M252 664 C 332 634 404 638 464 672"/><path d="M252 724 C 332 694 404 698 464 732"/>
+    <path d="M560 672 C 620 638 692 634 772 664"/><path d="M560 732 C 620 698 692 694 772 724"/>
+  </g></g></svg>
