@@ -9,4 +9,4 @@ Pages publiques de l'application (GitHub Pages) :
 Publication : *Settings > Pages > Deploy from a branch > main / (root)*.
 URL attendue : https://naturoconnect.github.io/motdujour-site/
 
-Avant publication : remplacer `CONTACT_A_RENSEIGNER` dans `support.html` par l'adresse de contact.
+Éditrice et contact : CHALAMEL Carole-Lynn — carolelynn.chalamel@gmail.com.
